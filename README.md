@@ -1,7 +1,5 @@
-# **3DCV HW1**
-Name: 吳泓毅  
-Department: NTU CSIE  
-Student ID: R11922029 
+# **Homography Estimation**
+
 
 ## **Problem 1: Homography estimation**
 
