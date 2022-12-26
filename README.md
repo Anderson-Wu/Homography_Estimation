@@ -197,8 +197,8 @@ GPU: NVIDIA GeForce GTX 1050
 
 
 ```shell
-conda create --name 3dcvhw1 python=3.8 
-conda activate 3dcvhw1
+conda create --name homography python=3.8 
+conda activate homography
 conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch-lts 
 pip install -r requirements.txt 
 ```
